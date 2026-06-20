@@ -68,7 +68,7 @@ Electron_nPU_000_Pt_100_Eta_260_Events_2K_Set01_Step1.root
 
 ### Purpose
 
-Contains Geant4 Step-1 simulation outputs generated using the variable pT–η configuration. Unlike the fixed-pT dataset, these samples cover a continuous range of pT and η values.
+Contains Geant4 Step-1 simulation outputs generated using the variable pT–η configuration. Unlike the fixed-pT dataset, these samples cover a continuous range of pT and η values. These files contain the SimHit information directly produced by Geant4 before digitisation.
 
 ### Contents
 
